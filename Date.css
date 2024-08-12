@@ -175,7 +175,7 @@ body {
     }
 
     body::before {
-        background-image: url(../../../../PhotoShop/Ganesh.png);
+        background-image: url(./Ganesh.png);
         background-position: center;
         background-attachment: fixed;
         background-size: cover;
